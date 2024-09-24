@@ -8,7 +8,7 @@ seaborn and matplotlib for visualization, and numpy for numerical operations.
 The dataset, which contains 3,491 entries across 17 columns, was loaded from an
 Excel file. This dataset includes critical information about various properties, such as price, location, and
 features etc.
-##**Data Exploration:** 
+## **Data Exploration:** 
 Initial exploration involved reviewing the first few rows of the dataset and gathering
 basic information. I identified key features such as the number of bedrooms, bathrooms, and the
 neighborhood name. This exploration phase highlighted that while most columns had complete data, the
